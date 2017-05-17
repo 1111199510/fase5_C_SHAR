@@ -1,0 +1,6 @@
+c:\users\luciana\documents\visual studio 2017\Projects\fase5\fase5\bin\Debug\fase5.exe.config
+c:\users\luciana\documents\visual studio 2017\Projects\fase5\fase5\bin\Debug\fase5.exe
+c:\users\luciana\documents\visual studio 2017\Projects\fase5\fase5\bin\Debug\fase5.pdb
+c:\users\luciana\documents\visual studio 2017\Projects\fase5\fase5\obj\Debug\fase5.csprojResolveAssemblyReference.cache
+c:\users\luciana\documents\visual studio 2017\Projects\fase5\fase5\obj\Debug\fase5.exe
+c:\users\luciana\documents\visual studio 2017\Projects\fase5\fase5\obj\Debug\fase5.pdb
